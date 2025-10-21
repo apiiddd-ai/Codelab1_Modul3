@@ -1,10 +1,10 @@
 
 # DocumentationPractice
 
-Proyek ini dibuat untuk latihan dokumentasi pada mata kuliah Pemrograman Lanjut (Modul 3).
+Proyek ini dibuat untuk latihan dokumentasi pada mata kuliah *Pemrograman Lanjut (Modul 3).*
 
 ## Deskripsi
-Program ini menampilkan pesan sederhana ke layar. Tujuannya adalah memahami bagaimana cara membuat dokumentasi menggunakan README.md.
+Program ini menampilkan pesan sederhana ke layar. Tujuannya adalah memahami bagaimana cara membuat dokumentasi menggunakan *README.md.*
 
 ## Cara Menjalankan
 1. Clone repositori ini
